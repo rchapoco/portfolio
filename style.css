@@ -1,0 +1,45 @@
+#navigationscene {
+  color: white;
+  text-align: center;
+  background-color: gray;
+  margin: -22px auto;
+  line-height: 0.8em;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+#nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+#nav li{
+  padding: 20px;
+  list-style-type: none;
+  flex-direction: row;
+}
+#nav a{
+  text-decoration: none;
+  color: black;
+}
+
+#footer{
+color:white;
+background-color: gray;
+margin: -22px auto;
+text-align: center;
+padding: 6px;
+}
+
+#footer p{
+  margin:1em;
+  line-height: 0.8em;
+  font-size: 8px;
+}
+
+#footer a{
+  color: white;
+  text-decoration: none;
+}
